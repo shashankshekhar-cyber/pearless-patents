@@ -109,3 +109,6 @@ while increasing the test productivity as well.
 5. The testing process should be strengthened on reuse and optimization of
 the test case sets, otherwise due to sheer size of the requirements to be
 tested will become unmanageable.
+
+
+http://nber.org/patents/
